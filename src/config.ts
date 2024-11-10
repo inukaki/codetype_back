@@ -1,0 +1,1 @@
+export const CLANG_PATH = 'C:\Program Files\LLVM\bin\clang.exe';
